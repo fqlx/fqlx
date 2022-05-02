@@ -8,4 +8,5 @@
 
 <hr />
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fqlx&show_icons=true&theme=dark&include_all_commits=true&custom_title=My+GitHub+stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fqlx&show_icons=true&theme=dark&include_all_commits=true)
