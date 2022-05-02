@@ -6,4 +6,8 @@
 - 🌱 I’m currently learning modeling volatility and pricing convexity in relation to crypto exotic assets. 
 - 📫 How to reach me: see my email in the left sidebar.
 
+<hr />
+
+<div align="center">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fqlx&show_icons=true&theme=dark&include_all_commits=true&custom_title=My+GitHub+stats)
+</div>
