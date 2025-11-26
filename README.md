@@ -9,4 +9,4 @@
 <hr />
 
 
-![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fqlx&show_icons=true&theme=dark&include_all_commits=true)
+![My GitHub stats](https://readmestats.999857.xyz/api?username=fqlx&show_icons=true&theme=dark&include_all_commits=true)
